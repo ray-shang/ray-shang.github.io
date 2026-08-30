@@ -19,6 +19,7 @@ Work experience
 * 2025: DAAD Research Grant
   * Hausdorff Center for Mathematics and the Max Planck Institute for Mathematics
   * Nominated by Harvard as a college senior from a pool of PhD students. K3 surfaces and moduli of sheaves.
+  * Advisor: Professor Daniel Huybrechts
 
 * Spring 2022 - Spring 2024: Course assistant
   * Harvard University
