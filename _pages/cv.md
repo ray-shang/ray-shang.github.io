@@ -12,6 +12,7 @@ redirect_from:
 Education
 ======
 * Ph.D in Pure Mathematics, University of Cambridge, 2029 (expected)
+* DAAD Visitor at Max Planck Institute of Mathematics and Hausdorff Center for Mathematics, 2025
 * B.S. in Pure Mathematics, Harvard University, 2024
 
 Work experience
