@@ -38,9 +38,7 @@
       "startDate": "2020",
       "endDate": "2024",
       "gpa": 3.98,
-      "courses": [Graduate Coursework: Intersection theory, Math 232AR: Hodge theory I, Math 232BR: Hodge theory II, Math 232a: Algebraic geometry I, Math 232b: Algebraic geometry II, Math 230a: Differential geometry, Math 222: Algebraic groups, Math 213a: Advanced Complex Analysis, Math 213b: Riemann Surfaces, Math 231a: Algebraic Topology I, Math 231b: Algebraic Topology II, Stat 210: Graduate probability theory, Econ 2099: Market Design
-                  Undergraduate Coursework: Math 55a, Math 55b, Math 114: Measure theory, 132: Differential Topology, Math 137: Algebraic geometry, Stat 111: Inferential statistics, Stat 110: Probability Theory]
-    }
+      "courses": []
   ],
   "skills": [Lean, Python],
   "languages": [],
