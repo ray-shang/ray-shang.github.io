@@ -16,7 +16,7 @@ Education
 
 Work experience
 ======
-*  2025: DAAD Research Grant
+* 2025: DAAD Research Grant
   * Awarded a DAAD research grant, nominated by Harvard as a college senior from a pool of PhD students. K3 surfaces and moduli of sheaves at the Hausdorff Center for Mathematics and the Max Planck Institute for Mathematics in Bonn, Germany.
 
 * Spring 2022 - Spring 2024: Course assistant
