@@ -9,6 +9,10 @@ redirect_from:
 
 I am a Ph.D. student at the University of Cambridge, advised by Dhruv Ranganathan. I completed my B.A. at Harvard University in 2024. I work in algebraic geometry. 
 
+Papers
+======
+2. [Slope semistability for Veronese normal bundles](https://arxiv.org/pdf/2411.16664)
+1. [Interpolation for degree 2 Veroneses of odd dimension](https://arxiv.org/pdf/2411.16672)
 
 <!--
 A data-driven personal website
