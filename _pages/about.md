@@ -9,7 +9,7 @@ redirect_from:
 
 I am a Ph.D. student at the University of Cambridge, advised by Dhruv Ranganathan. I completed my B.A. at Harvard University in 2024. I work in algebraic geometry. 
 
-Here is my [CV](githubwebsite_cv.pdf).
+Here is my [CV](/files/githubwebsite_cv.pdf).
 
 Papers
 ======
@@ -18,12 +18,12 @@ Papers
 
 Notes
 ======
-1. [Hodge theory and complex geometry](complex_geo_notes.pdf)
-2. [Moduli of Gieseker (semi)stable sheaves](moduli_of_vb_notes.pdf)
-3. [K3 surfaces](k3surfaces.pdf)
-4. [Commutative Algebra](commutative_alg_notes.pdf)
-5. [Jacobi inversion problem](jacobi_inversion_notes.pdf)
-6. [Chern classes, complex orientation, and formal group laws](uchicago_paper_notes.pdf)
+1. [Hodge theory and complex geometry](/files/complex_geo_notes.pdf)
+2. [Moduli of Gieseker (semi)stable sheaves](/files/moduli_of_vb_notes.pdf)
+3. [K3 surfaces](/files/k3surfaces.pdf)
+4. [Commutative Algebra](/files/commutative_alg_notes.pdf)
+5. [Jacobi inversion problem](/files/jacobi_inversion_notes.pdf)
+6. [Chern classes, complex orientation, and formal group laws](/files/uchicago_paper_notes.pdf)
 
 
 <!--
