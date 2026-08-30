@@ -35,13 +35,13 @@ author:
   # Academic websites
   academia         : # URL
   arxiv            : "https://arxiv.org/search/math?searchtype=author&query=Shang%2C+R" # URL - Update with the correct link to your profile
-  googlescholar    : ""
+  googlescholar    : #""
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : ""
+  orcid            : #""
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : ""
+  pubmed           : #""
   researchgate     : # URL
   scopus           : # URL
   zotero           : # URL
