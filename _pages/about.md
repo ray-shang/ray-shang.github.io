@@ -11,8 +11,18 @@ I am a Ph.D. student at the University of Cambridge, advised by Dhruv Ranganatha
 
 Papers
 ======
-2. [Slope semistability for Veronese normal bundles](https://arxiv.org/pdf/2411.16664)
-1. [Interpolation for degree 2 Veroneses of odd dimension](https://arxiv.org/pdf/2411.16672)
+1. [Slope semistability for Veronese normal bundles](https://arxiv.org/pdf/2411.16664)
+2. [Interpolation for degree 2 Veroneses of odd dimension](https://arxiv.org/pdf/2411.16672)
+
+Notes
+======
+1. [Hodge theory and complex geometry](complex_geo_notes.pdf)
+2. [Moduli of Gieseker (semi)stable sheaves](moduli_of_vb_notes.pdf)
+3. [K3 surfaces](k3surfaces.pdf)
+4. [Commutative Algebra](commutative_alg_notes.pdf)
+5. [Jacobi inversion problem](jacobi_inversion_notes.pdf)
+6. [Chern classes, complex orientation, and formal group laws](uchicago_paper_notes.pdf)
+
 
 <!--
 A data-driven personal website
