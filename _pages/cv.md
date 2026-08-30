@@ -11,35 +11,20 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Pure Mathematics, University of Cambridge, 2029 (expected)
+* B.S. in Pure Mathematics, Harvard college, 2024
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Spring 2022 - Spring 2024: Course assistant
+  * Harvard college
+  * Duties includes: Grading and office hours
+  * Courses: Math 131: Introduction to topology, Math 231: Graduate algebraic topology, Math 113: Introduction to Complex Analysis, Math 112: Introduction to Real Analysis, Math 121: Linear Algebra and Applications
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Lean
+* Python
 
 Publications
 ======
