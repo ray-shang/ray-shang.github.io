@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student at the University of Cambridge, advised by Dhruv Ranganathan. I completed my B.A. at Harvard University in 2024. I work in algebraic geometry. 
+I am a Ph.D. student at the University of Cambridge, advised by [Dhruv Ranganathan](https://www.dhruvrnathan.net/). I completed my B.A. at Harvard University in 2024. I work in algebraic geometry. 
 
 Here is my [CV](/files/githubwebsite_cv.pdf).
 
